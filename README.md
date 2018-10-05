@@ -1,2 +1,4 @@
-# DeviceBit
- Manual
+# Introduction
+
+Manual
+
