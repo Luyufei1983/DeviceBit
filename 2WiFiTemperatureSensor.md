@@ -18,13 +18,15 @@ This chapter will take about 10 minutes to read. It mainly introduces an open so
 As the picture shown below, supply power to the 18b20 with nodemcu and connect the 18B20 data cable to D5 pin of ndoemcu.
 ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/wifi-ht-20180913-8.jpg)
 
-Hardware schematic：[Hardware schematic](https://github.com/lewei50/lua-on-nodemcu/blob/master/demo/ESP8266-DS18B20/esp-tUSB-201808D2.PDF)
+Hardware schematic：
+[Hardware schematic](https://github.com/lewei50/lua-on-nodemcu/blob/master/demo/ESP8266-DS18B20/esp-tUSB-201808D2.PDF)
 
 ## 2.2 Download firmware
 
 [Firmware download software：FLASH_DOWNLOAD_TOOLS_V3.6.4](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/software/FLASH_DOWNLOAD_TOOLS_V3.6.4.rar)
 
-Firmware ：https://github.com/lewei50/lua-on-nodemcu/tree/master/demo/ESP8266-DS18B20/bin
+Firmware ：
+https://github.com/lewei50/lua-on-nodemcu/tree/master/demo/ESP8266-DS18B20/bin
 
 Download firmware：
 ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/wifiht-20180923-5.jpg)

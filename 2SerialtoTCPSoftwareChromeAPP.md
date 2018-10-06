@@ -14,24 +14,18 @@ Too  DTU Open-source
 2. Download .crx
 ![下载 .crx](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/tools-20180508-2.jpg)
 3. Drag the downloaded crx to chrome://extensions of  the chrome browser and install.
-![][61]
+![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-61.jpg)
 
 4. Chrome://apps, click on the installed extension  
-![][62]
+![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-62.jpg)
 
 5.  Configure  unvarnished transmission modbus settings on DeviceBit
-![][63]  
+![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-63.jpg)
   
-    ![][64]
+    ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-64.jpg)
 
-    ![][65]
+    ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-65.jpg)
 
-    ![][66]
+    ![](https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-66.jpg)
 
-[61]: https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-61.jpg
-[62]: https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-62.jpg
-[63]: https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-63.jpg
-[64]: https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-64.jpg
-[65]: https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-65.jpg
-[66]: https://leweidoc.oss-cn-hangzhou.aliyuncs.com/lewei50/img/devicebitmanual-xj-20180930-66.jpg
 
