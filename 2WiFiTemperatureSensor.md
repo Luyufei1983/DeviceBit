@@ -39,7 +39,7 @@ After the download is complete, restart the device
 
 # 3 Configuration on DeviceBit
 
-Log in to [https://www.lewei50.com ](https://www.lewei50.com ), sign up and then sign in.
+Log in to [https://www.devicebit.com ](https://www.devicebit.com ), sign up and then sign in.
 
 ## 3.1 Add A Device with wifiHT Template
 
